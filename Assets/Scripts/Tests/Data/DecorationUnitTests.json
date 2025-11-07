@@ -1,0 +1,13 @@
+{
+    "vectors": [
+      { "PipingResolution": 20, "Sides": 16, "PositionOffset": 0.5, "ExpectedVertexCount": 352 },
+      { "PipingResolution": 12, "Sides": 8,  "PositionOffset": 0.3, "ExpectedVertexCount": 192 },
+      { "PipingResolution": 30, "Sides": 12, "PositionOffset": 0.4, "ExpectedVertexCount": 384 },
+      { "PipingResolution": 10, "Sides": 6,  "PositionOffset": 0.2, "ExpectedVertexCount": 132 },
+      { "PipingResolution": 25, "Sides": 10, "PositionOffset": 0.6, "ExpectedVertexCount": 286 },
+      { "PipingResolution": 15, "Sides": 20, "PositionOffset": 0.5, "ExpectedVertexCount": 330 },
+      { "PipingResolution": 8,  "Sides": 4,  "PositionOffset": 0.1, "ExpectedVertexCount": 72 },
+      { "PipingResolution": 18, "Sides": 14, "PositionOffset": 0.45, "ExpectedVertexCount": 288 }
+    ]
+  }
+  
